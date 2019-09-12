@@ -179,6 +179,5 @@ RStudio version 3.5.1
 
 [V4.1](https://github.com/UBC-MDS/Song_Key_Mode_and_Popularity_on_Spotify/releases/tag/V4.1) Final Project<br>
 [V3.1](https://github.com/UBC-MDS/Song_Key_Mode_and_Popularity_on_Spotify/releases/tag/V3.1) Milestone 2<br>
-[V2.1](https://github.com/UBC-MDS/Song_Key_Mode_and_Popularity_on_Spotify/releases/tag/V2.1) We are doing this release to adjust the Readme to the TA's expectations for Milestone 1.<br>
 [V2.0](https://github.com/UBC-MDS/Song_Key_Mode_and_Popularity_on_Spotify/releases/tag/v2.0) Milestone 1<br>
 [V0.1](https://github.com/UBC-MDS/Song_Key_Mode_and_Popularity_on_Spotify/releases/tag/0.1) Proposal
